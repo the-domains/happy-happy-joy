@@ -1,4 +1,3 @@
-layout_spectrum: 0.9448571873363107
 typography_spectrum: 0.9758236855268478
 color:
   brandStrength: 0.20112764509394765
@@ -11,4 +10,10 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+layout_spectrum: 0.9448571873363107
+author:
+  name: Liese Ho
+  email: liese.ho@gmail.com
+  url: www.happyhappyjoy.com
 name: Happy Happy Joy!
+title: Freedom To Be Happy No Matter What Life Throws At You!
