@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-07-29T12:59:57.303Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1abc3d76-3e58-42f6-b560-b40ecc8b0a3e.jpg
+datePublished: '2016-07-29T13:13:31.127Z'
 author: []
 via: {}
-dateModified: '2016-07-29T12:59:02.321Z'
+dateModified: '2016-07-29T13:13:29.930Z'
 title: Why Happy Happy Joy?
 publisher: {}
 description: >-
@@ -13,11 +11,10 @@ description: >-
   well the relentless sadness following her passing. That feeling somehow
   evolved into a kind of numbness for the most part with episodes of grief that
   came and went without warning.
-starred: false
 sourcePath: _posts/2016-07-29-why-happy-happy-joy.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: why-happy-happy-joy/index.html
 _type: MediaObject
 
 ---
