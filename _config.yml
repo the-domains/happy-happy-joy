@@ -1,4 +1,4 @@
-typography_spectrum: 0.9758236855268478
+typography_spectrum: 0.25731276790611446
 color:
   brandStrength: 0.20112764509394765
   lightness: 0.5720229248981923
@@ -10,7 +10,7 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-layout_spectrum: 0.9448571873363107
+layout_spectrum: 0.6784841741900891
 author:
   name: Liese Ho
   email: liese.ho@gmail.com
