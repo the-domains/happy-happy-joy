@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-07-29T13:13:31.127Z'
+datePublished: '2016-08-02T07:05:56.040Z'
 author: []
 via: {}
-dateModified: '2016-07-29T13:13:29.930Z'
+dateModified: '2016-08-02T07:05:54.140Z'
 title: Why Happy Happy Joy?
 publisher: {}
 description: >-
@@ -13,7 +13,7 @@ description: >-
   came and went without warning.
 sourcePath: _posts/2016-07-29-why-happy-happy-joy.md
 hasPage: true
-starred: false
+starred: true
 url: why-happy-happy-joy/index.html
 _type: MediaObject
 
