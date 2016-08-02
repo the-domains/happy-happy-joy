@@ -20,5 +20,8 @@ navigation:
   - name: Why Happy Happy Joy?
     id: 24156095-b25c-4652-80f2-3d76eedd10ca
     type: content
+  - name: My Nutrition System Rocks!
+    url: 'http://lieseandjonny.isagenix.com/?sc_lang=en-AU'
+    type: external
 title: Live Life In Joy!
 description: 'Free to Enjoy the Happy in Life :)'
