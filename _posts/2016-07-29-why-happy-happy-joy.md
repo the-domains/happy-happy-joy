@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-02T07:05:56.040Z'
+datePublished: '2016-08-02T07:06:17.336Z'
 author: []
 via: {}
-dateModified: '2016-08-02T07:05:54.140Z'
+dateModified: '2016-08-02T07:06:15.547Z'
 title: Why Happy Happy Joy?
 publisher: {}
 description: >-
