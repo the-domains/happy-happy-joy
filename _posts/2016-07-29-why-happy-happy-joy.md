@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-08-02T07:06:17.336Z'
+datePublished: '2016-08-02T07:13:13.962Z'
+sourcePath: _posts/2016-07-29-why-happy-happy-joy.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-02T07:06:15.547Z'
+dateModified: '2016-08-02T07:13:12.609Z'
 title: Why Happy Happy Joy?
 publisher: {}
 description: >-
@@ -11,9 +13,7 @@ description: >-
   well the relentless sadness following her passing. That feeling somehow
   evolved into a kind of numbness for the most part with episodes of grief that
   came and went without warning.
-sourcePath: _posts/2016-07-29-why-happy-happy-joy.md
-hasPage: true
-starred: true
+starred: false
 url: why-happy-happy-joy/index.html
 _type: MediaObject
 
@@ -28,6 +28,8 @@ Happy Happy Joy was born in the months following the sudden and entirely unexpec
 
 Then one day something happened - I can't for the life of me remember what - but it made me laugh, then immediately feel terribly guilty for having done so. And so I began to wonder... when is it going to be okay to feel okay again? And slowly it dawned on me how _horribly insulting_ it was to Angel to be still alive and **not really living...**
 
-From that moment on I decided to be FREE TO BE unashamedly happy regardless of anything that life could fling my way. Which isn't to say that I'm cracking up when 'bad things' happen, but more so that I am not afraid to enjoy the joy in life even when the chips are down...
+From that moment on I decided to be FREE TO BE unashamedly happy if a moment so took me and regardless of anything that life could fling my way. Which isn't to say that I'm in fits of giggles up when 'bad things' happen, but more so that I am not afraid to **enjoy the joy** in life even when the chips are down...
+
+This website is a space to express anything in life that makes me happy, from the entertaining, to the practical, to the mundane, to products and programs, to people, to the beautiful, to the inspiring, to the downright frivolous!
 
 This is a new adventure, a new beginning for me so bear with me on my learning curve... :)
